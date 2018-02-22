@@ -1,1 +1,1 @@
-# data-lab-notebooks
+# datalab-notebooks
