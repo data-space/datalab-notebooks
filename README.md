@@ -7,5 +7,3 @@ If either is not the case, I'll appreciate an email letting me know.
 
 The notebooks were authored by research assistants of the Data Lab at Bentley University in Waltham, MA (just outside of Boston).
 Please direct any feedback, comments or suggestions to David Oury <doury@bentley.edu>. Thanks.
-
-See <http://databricks.com> for info on Databricks.
