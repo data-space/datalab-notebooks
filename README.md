@@ -5,3 +5,4 @@ The notebooks where created on Databricks and should be runnable on any platform
 Each notebook should indicate the version it uses. 
 
 The notebooks where authored by research assistants of the Data Lab at Bentley University in Waltham, MA (just outside of Boston).
+Please direct any feedback, comments or suggestions do David Oury <doury@bentley.edu>. Thanks.
