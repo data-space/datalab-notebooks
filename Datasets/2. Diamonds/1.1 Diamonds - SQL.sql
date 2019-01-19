@@ -54,7 +54,8 @@
 
 -- COMMAND ----------
 
-drop table if exists diamonds
+-- MAGIC %sql
+-- MAGIC drop table if exists diamonds
 
 -- COMMAND ----------
 
@@ -66,10 +67,11 @@ drop table if exists diamonds
 
 -- COMMAND ----------
 
-create temporary table diamonds 
-using CSV 
-options(path="/mnt/datalab-datasets/file-samples/diamonds.csv", 
-        header=TRUE)
+-- MAGIC %sql
+-- MAGIC create temporary table diamonds 
+-- MAGIC using CSV 
+-- MAGIC options(path="/mnt/datalab-datasets/file-samples/diamonds.csv", 
+-- MAGIC         header=TRUE)
 
 -- COMMAND ----------
 
@@ -81,8 +83,9 @@ options(path="/mnt/datalab-datasets/file-samples/diamonds.csv",
 
 -- COMMAND ----------
 
-select *
-from diamonds
+-- MAGIC %sql
+-- MAGIC select *
+-- MAGIC from diamonds
 
 -- COMMAND ----------
 
